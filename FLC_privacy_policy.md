@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Privacy Policy - Four-Leaf Clover Detector"
+---
+
 # Privacy Policy
 
 ## Four-Leaf Clover Detector App
